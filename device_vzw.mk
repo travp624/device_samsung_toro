@@ -19,4 +19,4 @@
 # Everything in this directory will become public
 
 $(call inherit-product, device/samsung/toro/device.mk)
-$(call inherit-product-if-exists, vendor/samsung/toro_vzw/device-vendor.mk)
+$(call inherit-product-if-exists, vendor/verizon/verizon-vendor.mk)
